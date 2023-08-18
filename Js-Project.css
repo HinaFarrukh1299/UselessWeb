@@ -1,0 +1,110 @@
+img{
+height:200px;
+width:200px;
+}
+#image-wrapper{
+
+display: flex;
+align-items:first baseline;
+flex-wrap:wrap ;
+flex-direction: row;
+flex-basis: 55%;
+margin:10% 30%;
+
+
+
+
+}
+#img1{
+
+align-self: flex-start;
+order: 1;
+
+
+}
+#img2{
+
+align-self: flex-start;
+order: 2;
+
+
+
+}
+#img3{
+
+align-self: flex-start;
+order:3
+
+
+}
+#img4{
+
+align-self: flex-start;
+order:4;
+
+
+}
+#img5{
+    align-self: flex-start;
+    order:5;
+}
+#img6{
+
+    align-self: flex-start;
+    order:6;
+
+}
+
+#TryAgain{
+
+    display:none;
+}
+#FailMSG{
+    display:none;
+}
+#SuccesMSG{
+    display:none;
+}
+
+#WinMsg{
+
+    display:none;
+}
+        #panther{
+                  display:none;
+
+        }
+
+        #babyElephant{
+            display:none;
+
+        }
+        #mouseDeer{
+display:none;
+
+        }
+        #horse{
+
+display:none;
+
+        }
+
+        #Kitten {
+            display:none;
+        }
+        
+        #babyMonkey {
+
+            display:none;
+        }
+.block{
+
+display:flex;
+position:inherit;
+width:100%;
+align-content: center;
+margin:5% 15%; 
+flex-flow: row;
+
+
+}
